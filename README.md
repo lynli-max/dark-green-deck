@@ -13,7 +13,7 @@ dark-green-deck
 
 直接对 AI 说：
 
-帮我安装这个 skill：https://github.com/lynali-max/dark-green-deck
+帮我安装这个 skill：https://github.com/lynli-max/dark-green-deck
 
 AI 会自动把这个 skill 下载到本地技能目录。
 
